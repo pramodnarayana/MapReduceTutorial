@@ -1,0 +1,5 @@
+#surefire
+#Thu Feb 05 22:46:46 IST 2015
+user.dir=/home/hduser/workspace/examples
+localRepository=/home/hduser/.m2/repository
+basedir=/home/hduser/workspace/examples
